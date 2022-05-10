@@ -2,3 +2,5 @@
 updated from remote
 2. This is the second line
 Updated from remote
+This line is updated from local
+4. This is the third line
